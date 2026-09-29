@@ -4,6 +4,14 @@
 
 ![didi animation contact sheet](preview/contact-sheet.png)
 
+## Get didi
+
+[**Install didi in Codex**](codex://pets/install?name=didi&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2FHTHou%2Fdidi-codex-pet%2Fmain%2Fdidi%2Fspritesheet.webp&description=Ginger-and-white%20tabby%20in%20a%20blue%20carrier&spriteVersionNumber=2)
+
+[Download the latest release](https://github.com/HTHou/didi-codex-pet/releases/latest)
+
+The one-click link opens Codex's pet installation flow. If the link is not handled on your system, use the manual installation steps below.
+
 ## Features
 
 - Nine standard Codex animation states
